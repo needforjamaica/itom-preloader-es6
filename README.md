@@ -14,7 +14,7 @@ Options:<br/>
 timeout: milliseconds (default = 3000);<br/>
 backgroundColor: any background color (default = '#FFFFFF');<br/>
 dotColor: any dots color (default = '#111111');<br/>
-images: you can set array of images to preload and cache them,<br/>relative path from your public root (default = []);<br/><br/>
+images: you can set array of images to preload and cache them,<br/>relative path from your public root (default = []);<br/>
 alwaysShow: show preloader every time;<br/><br/>
 
 Codepen editor page:<br/>

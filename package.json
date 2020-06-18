@@ -1,0 +1,22 @@
+{
+  "name": "itom-preloader-es6",
+  "version": "1.0.0",
+  "description": "Simple preloader for web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/needforjamaica/itom-preloader-es6.git"
+  },
+  "keywords": [
+    "preloader"
+  ],
+  "author": "Igor Tomkovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/needforjamaica/itom-preloader-es6/issues"
+  },
+  "homepage": "https://github.com/needforjamaica/itom-preloader-es6#readme"
+}
